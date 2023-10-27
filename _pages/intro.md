@@ -61,13 +61,13 @@ I do a lot of things. I’m a designer, writer, independent researcher & web tin
 ### On Death
 Not fully convinced by the idea of death. How selfish of me! One of my aims is to find a way to make us humans connect on a deeper level using technology. Oxymoronic, right? Being together in a state of a continuous flow of essences juggling and understanding one another just by learning how to leverage compressed communication? I do enjoy thinking about [Longtermism](https://en.wikipedia.org/wiki/Longtermism#:~:text=Longtermism%20is%20the%20ethical%20view,reduce%20existential%20risks%20to%20humanity.)
 
-	I feel that as societies evolve, they tend to become more focused on defence instead of offence.
+I feel that as societies evolve, they tend to become more focused on defence instead of offence.
 
-	A few examples:
+A few examples:
 
 	- it seems that offensive forces generally have the upper hand since it is simpler to create a weapon that can destroy a large number of smaller ones than the opposite, but the technology required to intercept and destroy is much more complicated than the technology to simply blow things up;
 	- it is generally more useful to avoid a fight instead of engaging into a street-fight; I am not sure about the stats here, but isn't the person who throws the first punch most at fault?
 	- it seems like cryptography is about living in a world where defense wins
 	- being the one who's doing less talking and more listening is receiving input instead of expelling input; being a good listener is about learning how to make space for another person’s worries, thoughts, ideas, and words and oftentimes sacrificing your own
 
-	I should be able to come up with more examples as this post evloves, but I was wondering what are your thoughts around this.
+I should be able to come up with more examples as this post evloves, but I was wondering what are your thoughts around this.
