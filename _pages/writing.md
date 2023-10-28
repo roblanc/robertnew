@@ -44,9 +44,6 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Hacker Culture in the 1800s](/writing/hacker)
 - [Mental dissociation](/writing/dissociation)
 
-
-*under migration. update soon!*
-
 Let's see if this works. 
 
 {% comment %}
