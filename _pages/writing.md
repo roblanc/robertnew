@@ -42,7 +42,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Culture is brainwashing you](/writing/culture)
 - [Why more choice makes you unhappy](/writing/choice)
 - [Hacker Culture in the 1800s](/writing/hacker)
-- [Mental dissociation](/writing/dissociation)
+- [Mental dissociation](/writing/mentaldissociation)
 
 Let's see if this works. 
 

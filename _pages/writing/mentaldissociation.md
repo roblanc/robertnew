@@ -2,6 +2,7 @@
 layout: default
 title: "Mental dissociation"
 ---
+
 In simple terms, dissociation is the psychological response to traumatic stress, but also the separation of oneself from thoughts, feelings, memories, and surroundings.
 
 Dissociation is increasingly used by us humans to cope with something incompatible and inconsistent with how we identify with ourselves, how we perceive ourselves, or how we would like to become.
