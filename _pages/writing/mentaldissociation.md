@@ -22,7 +22,6 @@ We choose to unconsciously close our eyes when facing the micro-realities we nee
 If we would have to dissect each part of these micro-realities, we would probably go insane.
 
 Dissociation is the veil the mind pulls over something that happened to us. Human progress has brought larger doses of mental input, combining those with even larger doses of diversity. Of course, the quality of life has increased, and we added more years to the human lifespan. But this comes with a price on our psychological engine.
-
 ### **We have more discrete bits of input than ever before**
 
 We pull up additional veils of dissociative mechanisms so that we can deal with the bits.
@@ -31,8 +30,4 @@ You fill up your glass and chug it in one shot, you light up your plant and inha
 
 You build walls. You want to make sure that your beliefs stay in one place. You do not want to know what is on the other side of the veil.
 
-You are walking on a chain you do not want to break.
-
-Your morals are already set.
-
-And self-continuity will prevail.
+You are walking on a chain you do not want to break. Your morals are already set. And self-continuity will prevail.
