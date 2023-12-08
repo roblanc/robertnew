@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Superstimuli"
+title: "Superstimuli: are we amusing ourselves to death?"
 ---
 
 [Man dies after 3-day internet gaming binge.](https://edition.cnn.com/2015/01/19/world/taiwan-gamer-death/index.html) [Influencer dies after binge drinking on livestream.](https://edition.cnn.com/2023/05/27/asia/chinese-livestreamer-drinking-baijiu-intl-hnk/index.html) Fast food is killing you slowly.
