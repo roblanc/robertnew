@@ -9,7 +9,7 @@ Writing is *crystalized thinking*.
 He is likely to read this article and will notice the infelicities, the stray words, the unnecessary punctuation, the galumphing syntax, the desperate metaphors, and the sentences that wander into the woods. “They’re paying you by the comma?” McPhee might write in the margin after reading the foregoing sentence.
 
 ## Latest
-- [Superstimuli: Are we amusing ourselves to death?](writing/superstimuli)
+- [Superstimuli: Are we amusing ourselves to death?](/writing/superstimuli)
 
 ## Meta
 - [Life will always be good](/writing/life)
