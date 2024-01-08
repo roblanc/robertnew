@@ -58,6 +58,7 @@ I used to work inside the CAD, AR, VR, IoT industry for 5 years. A quasi-corpora
 I can say something generic like *I'm a YouTuber* or *I'm a course designer* or *professional Tweeter bot* --- but the reality is far more complex.
 
 I do a lot of things. I’m a designer, writer, independent researcher & web tinkerer. I am generally interested in anything that doesn't reduce my optionality and things that you can do once that work in perpetuity.
+
 ### On Death
 Not fully convinced by the idea of death. How selfish of me! One of my aims is to find a way to make us humans connect on a deeper level using technology. Oxymoronic, right? Being together in a state of a continuous flow of essences juggling and understanding one another just by learning how to leverage compressed communication? I do enjoy thinking about [Longtermism](https://en.wikipedia.org/wiki/Longtermism#:~:text=Longtermism%20is%20the%20ethical%20view,reduce%20existential%20risks%20to%20humanity.)
 
