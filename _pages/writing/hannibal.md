@@ -3,7 +3,7 @@ layout: default
 title: "A Hannibalistic approach to life"
 ---
 
-***Created**: 12/6/2019; **Updated**: 8/5/2020;*
+***Created**: 12/6/2019; **Updated**: Mon, 8 Jan, 2024;*
 
 The first time I heard about [Hannibal Lecter](https://en.wikipedia.org/wiki/Hannibal_Lecter) was back in 2018 by watching [The Silence of the Lambs](https://www.imdb.com/title/tt0102926/) (1991). The second time I heard about Hannibal Lecter was in February 2019 by watching the [Hannibal TV Series](https://www.imdb.com/title/tt2243973/?ref_=nv_sr_1?ref_=nv_sr_1). Then I read the books but I was already fascinated by the TV series.
 > You spend a lot of time building walls, Hannibal. It’s natural to want to see if someone is clever enough to climb over them.‍
