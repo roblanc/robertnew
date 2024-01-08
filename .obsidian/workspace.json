@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/writing/hannibal.md",
+                "file": "_pages/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lecter",
+                "query": "youtuber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/writing/hannibal.md",
+                "file": "_pages/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/writing/hannibal.md",
+                "file": "_pages/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/writing/hannibal.md"
+                "file": "_pages/intro.md"
               }
             }
           }
@@ -148,5 +148,11 @@
     }
   },
   "active": "fadd7767fbd748d1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_pages/writing/hacker.md",
+    "_pages/writing/consumer.md",
+    "_pages/writing/choice.md",
+    "_pages/writing/booksaretweets.md",
+    "_pages/writing/hannibal.md"
+  ]
 }
