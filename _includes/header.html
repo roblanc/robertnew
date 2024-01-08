@@ -36,7 +36,7 @@
             {% endunless %}
         {% else %}
           <p class="page-date">
-            Last updated {{ page.last_modified_at | timeago }}
+            {{ page.last_modified_at | timeago }}
 
             {% if backlink_count > 1 %}
               {% assign s = "" %}
