@@ -23,6 +23,7 @@ I weave metaphors, explore open questions, and [write](/writing) occasionally ab
 *Status*: In progress
 
 ### Foundations
+
   **Part I**
   
   I exist.
