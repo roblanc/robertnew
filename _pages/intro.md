@@ -64,9 +64,13 @@ Not fully convinced by the idea of death. How selfish of me! One of my aims is t
 I feel that as societies evolve, they tend to become more focused on defence instead of offence.
 
 A few examples:
-- it seems that offensive forces generally have the upper hand since it is simpler to create a weapon that can destroy a large number of smaller ones than the opposite, but the technology required to intercept and destroy is much more complicated than the technology to simply blow things up;
-- it is generally more useful to avoid a fight instead of engaging into a street-fight; I am not sure about the stats here, but isn't the person who throws the first punch most at fault?
-- it seems like cryptography is about living in a world where defense wins
-- being the one who's doing less talking and more listening is receiving input instead of expelling input; being a good listener is about learning how to make space for another person’s worries, thoughts, ideas, and words and oftentimes sacrificing your own
+
+◒ it seems that offensive forces generally have the upper hand since it is simpler to create a weapon that can destroy a large number of smaller ones than the opposite, but the technology required to intercept and destroy is much more complicated than the technology to simply blow things up;
+
+◒ it is generally more useful to avoid a fight instead of engaging into a street-fight; I am not sure about the stats here, but isn't the person who throws the first punch most at fault?
+
+◒ it seems like cryptography is about living in a world where defense wins
+
+◒ being the one who's doing less talking and more listening is receiving input instead of expelling input; being a good listener is about learning how to make space for another person’s worries, thoughts, ideas, and words and oftentimes sacrificing your own
 
 I should be able to come up with more examples as this post evolves, but I was wondering what are your thoughts around this.
