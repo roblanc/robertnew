@@ -11,7 +11,6 @@ You've managed to find your way into my working notes, which I've accumulated ov
 
 I can tell you a [story](/stories)<br> or you can check my [writing](/writing)    
 Or perhaps I should [introduce](/intro) myself first?
-You can check my [notes](/kali)
 <br><br>
 
 

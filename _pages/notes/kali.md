@@ -2,7 +2,7 @@
 layout: default
 title: "Kali Yuga"
 created: 2024-01-10
-published: true
+published: false
 ---
 
 Practicioner: [kaliacc](https://www.urbandictionary.com/define.php?term=kaliacc)
