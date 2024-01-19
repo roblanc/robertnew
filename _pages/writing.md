@@ -29,7 +29,6 @@ He is likely to read this article and will notice the infelicities, the stray wo
 
 ## Practical philosophy
 - [A Hannibalistic approach to life](/writing/hannibal)
-- [Silicon vs. Biological](/writing/silicon)
 - [Become a specialized generalist](/writing/generalist)
 - [We need more information literacy](/writing/literacy)
 - [The Consumer and the Maker](/writing/consumer)
@@ -44,6 +43,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Life will always be good](/writing/life)
 - [Living in a simulation](/writing/simulation)
 - [Are humans isolating themselves to death?](/writing/isolation)
+- [Silicon vs. Biological](/writing/silicon)
 - [Life Extension or Immortality](/writing/lifeextension)
 - [Input-Computation-Output](/writing/input)
 - [The history of the world in one line of code](/writing/code)
