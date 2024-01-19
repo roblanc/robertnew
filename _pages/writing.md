@@ -11,13 +11,6 @@ He is likely to read this article and will notice the infelicities, the stray wo
 ## Latest
 - [Superstimuli: Are we amusing ourselves to death?](/writing/superstimuli)
 
-## Meta
-- [Life will always be good](/writing/life)
-- [Living in a simulation](/writing/simulation)
-- [Are humans isolating themselves to death?](/writing/isolation)
-- [Life Extension or Immortality](/writing/lifeextension)
-- [Input-Computation-Output](/writing/input)
-- [The history of the world in one line of code](/writing/code)
 
 ## Productivity
 - [Productivity A-Z Cheatsheet](/writing/productivity)
@@ -47,8 +40,13 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Hacker Culture in the 1800s](/writing/hacker)
 - [Mental dissociation](/writing/mentaldissociation)
 
-To be continued...
-
+## Meta
+- [Life will always be good](/writing/life)
+- [Living in a simulation](/writing/simulation)
+- [Are humans isolating themselves to death?](/writing/isolation)
+- [Life Extension or Immortality](/writing/lifeextension)
+- [Input-Computation-Output](/writing/input)
+- [The history of the world in one line of code](/writing/code)
 
 {% comment %}
 <!-- {% capture numposts %}{{ site.posts | size }}{% endcapture %}
