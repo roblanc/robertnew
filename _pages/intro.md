@@ -24,19 +24,19 @@ I weave metaphors, explore open questions, and [write](/writing) occasionally ab
 
 ### Foundations
 
-  **Part I**
+  **Stage I**
   
-  I exist.
-  I have an experience.
-  I want to maximize my experience.
+  I am here, alive and present. 
+  I possess a wealth of experiences. 
+  My aim is to amplify and enrich these experiences to their fullest potential.
   
-  **Part II**
+  **Stage II**
   
-  Other humans exist.
-  Other humans have an experience like mine.
+  Other individuals exist.
+  Other individuals have an experience like mine.
   Other humans want to maximize their experience.
  
-  **Part III**
+  **Stage III**
   
   Humans synergize to create better experiences.
   If I synergize with others, it will maximize my experience.
