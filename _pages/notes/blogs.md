@@ -23,22 +23,11 @@ This collection is more than just a list; it's a reflection of my intellectual e
 ### Articles
 
 - [The Great Online Game - by Packy McCormick - Not Boring by Packy McCormick](https://www.notboring.co/p/the-great-online-game)
-- 
-
-
-### **[Matthew Ball](https://www.matthewball.vc/)**
-
-- [Audio’s Opportunity and Who Will Capture It](https://www.matthewball.vc/all/audiotech)
-
-### **[Wes Vance](https://www.wesvance.com/)**
-
 - [The first 20 hours–how to learn anything | Josh Kaufman | TEDxCSU](https://youtu.be/5MgBikgcWnY)
 
 ### **[Neel Nanda](https://www.neelnanda.io/)**
-
-
-- Post 35: Your Standards are Too High
-- [Post 36: My Sense of Aesthetics](https://www.neelnanda.io/blog/36-aesthetics)
+  - [Your Standards are Too High](https://www.neelnanda.io/blog/35-standards)
+  - [My Sense of Aesthetics](https://www.neelnanda.io/blog/36-aesthetics)
 
 ### **[Nintil](https://nintil.com/)**
 
