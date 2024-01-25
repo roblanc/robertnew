@@ -3,10 +3,8 @@ layout: default
 title: "Writing"
 ---
 
-Writing is *crystalized thinking*.
-
->
-He is likely to read this article and will notice the infelicities, the stray words, the unnecessary punctuation, the galumphing syntax, the desperate metaphors, and the sentences that wander into the woods. “They’re paying you by the comma?” McPhee might write in the margin after reading the foregoing sentence.
+Writing is *crystalized thinking*. Writing is as important as speaking as a medium for a communicating thought. For this reason, it is said that writing is a
+secondary power of speech, and those who cannot read are, in part, mute. Scrolls that cannot be read may be compared to speech that cannot be understood, and writing that is difficult to decipher can be likened to stammering speech. Theory directs, and art performs; therefore, inform the mind and train the hand. If you aim to achieve high excellence in penmanship, you must master the principles and practice them faithfully.
 
 ## Latest
 - [Superstimuli: Are we amusing ourselves to death?](/writing/superstimuli)
@@ -47,6 +45,11 @@ He is likely to read this article and will notice the infelicities, the stray wo
 - [Life Extension or Immortality](/writing/lifeextension)
 - [Input-Computation-Output](/writing/input)
 - [The history of the world in one line of code](/writing/code)
+
+>
+He is likely to read this article and will notice the infelicities, the stray words, the unnecessary punctuation, the galumphing syntax, the desperate metaphors, and the sentences that wander into the woods. “They’re paying you by the comma?” McPhee might write in the margin after reading the foregoing sentence.
+
+
 
 {% comment %}
 <!-- {% capture numposts %}{{ site.posts | size }}{% endcapture %}
