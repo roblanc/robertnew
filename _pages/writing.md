@@ -10,7 +10,7 @@ He is likely to read this article and will notice the infelicities, the stray wo
 
 ## Latest
 - [Superstimuli: Are we amusing ourselves to death?](/writing/superstimuli)
-
+- [Nodes](/writing/nodes)
 
 ## Productivity
 - [Productivity A-Z Cheatsheet](/writing/productivity)

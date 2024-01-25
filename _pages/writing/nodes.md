@@ -5,4 +5,6 @@ created: 2024-01-10
 published: false
 ---
 
-[Nodes](/nodes/nodes)
+[Nodes](/blogs/
+
+[writing](/nodes)
