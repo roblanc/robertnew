@@ -57,8 +57,7 @@ This collection is more than just a list; it's a reflection of my intellectual e
 
 ### **[xkcd.com](https://xkcd.com/)**
 
-
-sometimes styled XKCD, is a webcomic created in 2005 by American author Randall Munroe. The comic's tagline describes it as "A webcomic of romance, sarcasm, math, and language". Munroe states on the comic's website that the name of the comic is not an initialism,I believe I was introduced via a Bill Gates article?Then the [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.amazon.com/What-Scientific-Hypothetical-Questions-International/dp/0544456866)
+sometimes styled XKCD, is a webcomic created in 2005 by American author Randall Munroe. The comic's tagline describes it as "A webcomic of romance, sarcasm, math, and language". Munroe states on the comic's website that the name of the comic is not an initialism,I believe I was introduced via a Bill Gates article? Then the [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.amazon.com/What-Scientific-Hypothetical-Questions-International/dp/0544456866)
 
 ***Relevant articles**: not sure. just read the book first.*
 
@@ -71,10 +70,12 @@ sometimes styled XKCD, is a webcomic created in 2005 by American author Randall 
 
 ### [OkDork.com by Noah Kagan](http://okdork.com/)
 
-
-**bio:** Hola, I am the Chief Sumo at [Sumo.com](http://Sumo.com) and [AppSumo.com](http://AppSumo.com), where we help entrepreneurs kick more ass. Before that I was a cubicle monkey at Intel, #30 at Facebook and #4 at Mint. These are my stories on marketing, starting a business, personal improvement and productivity tips.
-
-***Relevant articles****[Time Management Tips of Insanely Busy People](https://okdork.com/time-management-tips/)********[My Smart Home Automation Setup Saves Me 40 Hours per Year](https://okdork.com/my-home-automation-setup/)********[How to Create an Interesting Life with Tynan](https://okdork.com/create-interesting-life-tips-from-tynan/?utm_medium=blog&utm_source=resources)********[Noah Kagan Interview (Full Episode) | The Tim Ferriss Show (Podcast)](https://www.youtube.com/watch?v=518CG5zbh4g)******* [Tim Ferriss Interviews Noah Kagan of AppSumo.com](https://www.youtube.com/watch?v=v47WEyeSMSA)
+***Relevant articles****
+- [Time Management Tips of Insanely Busy People](https://okdork.com/time-management-tips/)
+- [My Smart Home Automation Setup Saves Me 40 Hours per Year](https://okdork.com/my-home-automation-setup/)
+- [How to Create an Interesting Life with Tynan](https://okdork.com/create-interesting-life-tips-from-tynan/?utm_medium=blog&utm_source=resources)
+- [Noah Kagan Interview (Full Episode) | The Tim Ferriss Show (Podcast)](https://www.youtube.com/watch?v=518CG5zbh4g)
+- [Tim Ferriss Interviews Noah Kagan of AppSumo.com](https://www.youtube.com/watch?v=v47WEyeSMSA)
 
 ### [tim.blog](https://tim.blog/) (Tim Ferriss)
 
