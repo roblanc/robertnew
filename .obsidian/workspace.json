@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0834fbb0d1687cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fadd7767fbd748d1",
+  "active": "c0834fbb0d1687cf",
   "lastOpenFiles": [
-    "_pages/writing/execution.md",
+    "_pages/writing.md",
+    "_pages/index_old.md",
+    "writing.md",
     "_pages/Test.md",
+    "_pages/writing/execution.md",
     "_pages/writing/code.md",
     "_pages/writing/booksaretweets.md",
     "writing/superstimuli.md",
@@ -157,14 +173,12 @@
     "writing/Sleightofhand.md",
     "writing/genius.md",
     "writing/booksaretweets.md",
-    "_pages/writing.md",
     "_pages/writing/reflect.md",
     "_pages/@/landscapes-of-knowledge.md",
     "@/cozyroom.md",
     "@",
     "writing",
     "_pages/intro.md",
-    "writing.md",
     "_pages/writing/hacker.md",
     "_pages/writing/consumer.md",
     "_pages/writing/choice.md",

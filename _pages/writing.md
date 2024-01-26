@@ -10,6 +10,7 @@ secondary power of speech, and those who cannot read are, in part, mute. Scrolls
 ## Latest
 - [Superstimuli: Are we amusing ourselves to death?](/writing/superstimuli)
 - [Nodes](/writing/nodes.md)
+- [[Test]]
 
 ## Productivity
 - [Productivity A-Z Cheatsheet](/writing/productivity)
