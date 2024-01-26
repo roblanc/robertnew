@@ -11,8 +11,12 @@
             "id": "fadd7767fbd748d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_pages/Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "super",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_pages/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_pages/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_pages/Test.md"
+              }
             }
           }
         ]
@@ -139,21 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60d165bca2c8a19c",
+  "active": "fadd7767fbd748d1",
   "lastOpenFiles": [
+    "_pages/writing/execution.md",
+    "_pages/Test.md",
+    "_pages/writing/code.md",
+    "_pages/writing/booksaretweets.md",
     "writing/superstimuli.md",
+    "android-chrome-192x192.png",
+    "writing/Sleightofhand.md",
+    "writing/genius.md",
     "writing/booksaretweets.md",
+    "_pages/writing.md",
+    "_pages/writing/reflect.md",
+    "_pages/@/landscapes-of-knowledge.md",
     "@/cozyroom.md",
     "@",
-    "writing/genius.md",
-    "writing/Sleightofhand.md",
     "writing",
     "_pages/intro.md",
     "writing.md",
     "_pages/writing/hacker.md",
     "_pages/writing/consumer.md",
     "_pages/writing/choice.md",
-    "_pages/writing/booksaretweets.md",
     "_pages/writing/hannibal.md"
   ]
 }
