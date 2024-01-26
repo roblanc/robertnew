@@ -12,4 +12,4 @@ In day to day life, dexterity provides practical benefits like working more effi
 
 References
 ---
-- [Sleight of hand](/writing/Sleightofhand)
+- [Sleight of hand](_pages/Sleightofhand.md)

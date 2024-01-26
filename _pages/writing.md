@@ -8,7 +8,7 @@ Writing is *crystalized thinking*. Writing is as important as speaking as a medi
 secondary power of speech, and those who cannot read are, in part, mute. Scrolls that cannot be read may be compared to speech that cannot be understood, and writing that is difficult to decipher can be likened to stammering speech. Theory directs, and art performs; therefore, inform the mind and train the hand. If you aim to achieve high excellence in penmanship, you must master the principles and practice them faithfully.
 
 ## Latest
-- [Superstimuli: Are we amusing ourselves to death?](/writing/superstimuli)
+- [Superstimuli: Are we amusing ourselves to death?](_pages/superstimuli.md)
 - [Nodes](/writing/nodes.md)
 - [[Test]]
 
@@ -20,12 +20,12 @@ secondary power of speech, and those who cannot read are, in part, mute. Scrolls
 - [Practice digital reset](/writing/reset)
 - [Prime advice for young hackers](/writing/younghackers)
 - [Share the obvious](/writing/share)
-- [Become a strategic genius](/writing/genius)
+- [Become a strategic genius](_pages/genius.md)
 - [You should work with your garage door up](/writing/garage)
 - [Creativity unlocking experiments](/writing/creativity)
 - [Googling is a skill](/writing/googling)
 - [On dexterity](/writing/dexterity)
-  - [Sleight of hand](/writing/Sleightofhand)
+  - [Sleight of hand](_pages/Sleightofhand.md)
 
 ## Practical philosophy
 - [A Hannibalistic approach to life](/writing/hannibal)
@@ -33,7 +33,7 @@ secondary power of speech, and those who cannot read are, in part, mute. Scrolls
 - [We need more information literacy](/writing/literacy)
 - [The Consumer and the Maker](/writing/consumer)
 - [Find time to write and reflect](/writing/reflect)
-- [Books are Tweets](/writing/booksaretweets)
+- [Books are Tweets](_pages/booksaretweets.md)
 - [Culture is brainwashing you](/writing/culture)
 - [Why more choice makes you unhappy](/writing/choice)
 - [Hacker Culture in the 1800s](/writing/hacker)

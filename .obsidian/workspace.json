@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/writing/Test.md",
+                "file": "_pages/genius.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5004348754883
   },
   "right": {
     "id": "2edda7c9d112cebf",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/writing/Test.md",
+                "file": "_pages/genius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/writing/Test.md",
+                "file": "_pages/genius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/writing/Test.md"
+                "file": "_pages/genius.md"
               }
             }
           }
@@ -148,25 +148,29 @@
   },
   "active": "17aedc0404fc9b51",
   "lastOpenFiles": [
-    "_pages/support.md",
-    "_pages/writing/Test.md",
+    "_pages/booksaretweets.md",
     "_pages/writing.md",
+    "_pages/writing/reflect.md",
+    "_pages/writing/reset.md",
+    "_pages/writing/Superstimuli.md",
+    "_pages/writing/Sleightofhand.md",
+    "_pages/writing/simulation.md",
+    "_pages/writing/Test.md",
     "_pages/index_old.md",
     "writing.md",
+    "_pages/intro.md",
+    "_pages/support.md",
     "_pages/writing/execution.md",
     "_pages/writing/code.md",
     "_pages/writing/booksaretweets.md",
-    "writing/superstimuli.md",
+    "_pages/superstimuli.md",
     "android-chrome-192x192.png",
-    "writing/Sleightofhand.md",
-    "writing/genius.md",
-    "writing/booksaretweets.md",
-    "_pages/writing/reflect.md",
+    "_pages/Sleightofhand.md",
+    "_pages/genius.md",
     "_pages/@/landscapes-of-knowledge.md",
     "@/cozyroom.md",
     "@",
     "writing",
-    "_pages/intro.md",
     "_pages/writing/hacker.md",
     "_pages/writing/consumer.md",
     "_pages/writing/choice.md",
