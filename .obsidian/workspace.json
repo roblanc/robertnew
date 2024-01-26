@@ -11,12 +11,8 @@
             "id": "c0834fbb0d1687cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_pages/genius.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/genius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/genius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_pages/genius.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17aedc0404fc9b51",
+  "active": "c0834fbb0d1687cf",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "writing.md",
+    "_pages/stories.md",
+    "_pages/genius.md",
     "_pages/booksaretweets.md",
     "_pages/writing.md",
     "_pages/writing/reflect.md",
@@ -157,7 +153,6 @@
     "_pages/writing/simulation.md",
     "_pages/writing/Test.md",
     "_pages/index_old.md",
-    "writing.md",
     "_pages/intro.md",
     "_pages/support.md",
     "_pages/writing/execution.md",
@@ -166,7 +161,6 @@
     "_pages/superstimuli.md",
     "android-chrome-192x192.png",
     "_pages/Sleightofhand.md",
-    "_pages/genius.md",
     "_pages/@/landscapes-of-knowledge.md",
     "@/cozyroom.md",
     "@",
